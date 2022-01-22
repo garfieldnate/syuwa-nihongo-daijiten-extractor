@@ -3,7 +3,7 @@
 * PDF, with and without OCR, and (garbage) TXT file from digitization of 手話・日本語大辞典 (978-4331506806) via eridian.de
 * marked page numbers are 7 less than PDF numbers
 * one-handed signs on pages 65-272
-* two-handed signs on pagees 275-488
+* two-handed signs on pages 275-488
 * two-handed different-shape signs on pages 491-684
 * Should double-check on each page that OCR'd data actually exists
 * Entries are not split across pages, thank goodness
